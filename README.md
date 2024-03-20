@@ -20,3 +20,4 @@ Fusion is an educational tool and must not be used to harm anybody. By using Fus
 ## Links
 
 - [Mania422 Website](https://mania4222.odoo.com) - Visit the official Fusion website for more information and updates.
+![123](https://github.com/Mania422/fusion/assets/163564485/ee51aad5-037f-40ea-9359-761337631dde)
